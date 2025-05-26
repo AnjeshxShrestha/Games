@@ -8,7 +8,6 @@ pygame.init()
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 FPS = 60
-
 # Game settings
 ENEMY_SPAWN_RATE = 2000  # milliseconds
 BULLET_SPEED = 10
